@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+'''
+Created on 2016/${1:month}/${2:day}
+__author__ = "Bernardo Gomes de Abreu"
+__email__ = "bgomesdeabreu@gmail.com"
+'''
+
+# -> Standard import
+# -> Core Django Import
+# -> Third-party
+# -> Local Apps Import
+]]></content>
+	<tabTrigger>catuCabecalho</tabTrigger>
+
+</snippet>

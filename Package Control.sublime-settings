@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Angular Material Snippets",
+		"AngularJS",
+		"AngularJS Snippets",
+		"AutoPEP8",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Djaneiro",
+		"Emmet",
+		"Git",
+		"GitGutter-Edge",
+		"Gitignore",
+		"HTML-CSS-JS Prettify",
+		"Indent XML",
+		"Ionic Framework Extended Autocomplete",
+		"Ionic Framework Snippets",
+		"jQuery",
+		"JSON Reindent",
+		"Open Folder",
+		"Package Control",
+		"Python Breakpoints",
+		"Python Completions",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pep8",
+		"TrailingSpaces"
+	]
+}
